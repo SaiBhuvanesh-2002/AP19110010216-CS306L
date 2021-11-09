@@ -1,0 +1,11 @@
+void main()
+{
+  int s;
+  s = 123;
+  int k;
+  /* test
+  anandna*/
+  if (s>50){
+  	k =321;
+  }
+}
